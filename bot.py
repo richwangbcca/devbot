@@ -152,7 +152,7 @@ async def on_ready():
     print(f"Logged in as {bot.user}")
     scheduler.add_job(
         pick_challenge,
-        trigger=CronTrigger(hour=9, minute=0),
+        trigger=CronTrigger(hour=9, minute=0, timezone=LOCAL_TIMEZONE),
         name="Daily Challenge"
     )
     scheduler.start()
