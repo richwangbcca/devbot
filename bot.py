@@ -104,6 +104,10 @@ async def pick_challenge():
 # Bot commands
 @bot.command(name='projects')
 async def show_projects(ctx):
+    """
+    Show all projects and their TODOs
+    !show_projects
+    """
     data = load_data()
     projects = sorted(data['projects'])
     
