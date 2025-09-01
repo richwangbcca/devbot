@@ -57,6 +57,7 @@ python bot.py
 | `!list_todos <project>` | View all TODOs for a project | `!list_todos portfolio site` |
 | `!mark_done <project> <index>` | Mark a TODO as complete | `!mark_done "portfolio site" 1` |
 | `!challenge` | Manually trigger a challenge DM | `!challenge` |
+| `!projects` | List all projects an their TODOs | `!projects` |
 
 ## Getting Your Discord Credentials
 
