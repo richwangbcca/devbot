@@ -101,10 +101,6 @@ Build a simple habit tracker app with the following features:
 - Clean, minimal UI
 ```
 
-## Contributing
-
-This is a personal productivity tool, but if you have ideas for improvements, feel free to open an issue or submit a pull request!
-
 ## Why I Built This
 
 As someone who often gets lost in planning, I wanted a system that would:
@@ -112,5 +108,3 @@ As someone who often gets lost in planning, I wanted a system that would:
 - Give me variety in daily challenges
 - Connect interview prep with real project work
 - Keep me accountable through automated daily challenges.
-
-I just developed this as of Sept. 1, 2025, and I'm excited to use it for the upcoming year!
